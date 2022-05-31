@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Rabeya Akter Lima
 - 👀 I’m interested in java
 - 🌱 I’m currently learning java script
-- 💞️ I’m looking to collaborate with other developers
 - 📫 How to reach me <rabeyaakterlim4@gmail.com>
 - ✨ Fun fact :i love to draw & take picture. 
 
