@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rabeya Akter Lima
-- 👀 I’m interested in java
+- 👀 I’m interested in java & c++
 - 🌱 I’m currently learning java script
 - 📫 How to reach me <rabeyaakterlim4@gmail.com>
 - ✨ Fun fact : i love to draw & take picture. 
