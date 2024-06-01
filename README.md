@@ -4,7 +4,7 @@
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=Amin-0-1) -->
 <!--![Swift Logo](https://your-image-url.com/swift-logo.png)-->
 
-I'm Mahmoud Amin, a passionate iOS Engineer with a deep interest in mobile app development. I specialize in Swift, Objective-C, and I thrive on creating innovative, elegant and user-friendly applications. I love working on projects that push the boundaries of what's possible in the iOS ecosystem.
+I'm Rabeya Akter Lima, a passionate software development. I specialize in Swift, Objective-C, and I thrive on creating innovative, elegant and user-friendly applications. I love working on projects that push the boundaries of what's possible in the iOS ecosystem.
 
 ## 🔧 Technologies & Tools
 
@@ -35,8 +35,7 @@ I'm Mahmoud Amin, a passionate iOS Engineer with a deep interest in mobile app d
 
 ## 📫 How to Reach Me
 
-[![Stack Overflow Badge](https://img.shields.io/badge/Stack%20Overflow-Mahmoud.amin-orange?style=social&logo=stackoverflow)](https://stackoverflow.com/users/7933113) </br>
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Mahmoud.amin-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/mahmoud-amin-03325a148) </br>
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Mahmoud.amin-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/rabeya-akter-lima/) </br>
 [![Gmail Badge](https://img.shields.io/badge/Email-Mahmoud.amin-red?style=social&logo=gmail)](mailto:mahmoudamin373@gmail.com) </br>
 
 ## ⚡ Fun Fact
