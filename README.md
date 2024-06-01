@@ -1,10 +1,11 @@
 # Hi There, <img src="https://github.com/pgreen24/intro/blob/globalmain/wave.gif" alt="Wave Animation" width="40" height="40">
 
 ## About Me
-<!-- ![Profile Views](https://komarev.com/ghpvc/?username=Amin-0-1) -->
-<!--![Swift Logo](https://your-image-url.com/swift-logo.png)-->
+I'm Rabeya Akter Lima,  I'm a passionate software developer with a focus on building high-quality, user-friendly applications. I have experience with a variety of programming languages, including Python, JavaScript, and Java,c++. I'm also familiar with front-end technologies like HTML, CSS, and JavaScript, as well as back-end frameworks like Node.js and Express.js,PHP,MYSQL.
 
-I'm Rabeya Akter Lima, a passionate software development. I specialize in Swift, Objective-C, and I thrive on creating innovative, elegant and user-friendly applications. I love working on projects that push the boundaries of what's possible in the iOS ecosystem.
+In my free time, I enjoy contributing to open-source projects and learning new technologies. I'm always looking for ways to improve my skills and stay up-to-date with the latest developments in the software development world.
+
+Feel free to reach out to me if you have any questions or would like to collaborate on a project! Happy coding! 🚀
 
 ## 🔧Technologies which I  use:
 
@@ -68,5 +69,7 @@ I do Love Cartoon 🥳
 [![Mahmoud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pgreen24&hide=contribs)](https://github.com/pgreen24)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pgreen24&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+## My GitHub Contribution Graph Snake
 
-Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or exciting collaboration ideas. Happy coding! 🚀
+![Snake animation](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
+
