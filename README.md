@@ -11,7 +11,7 @@ I'm Rabeya Akter Lima, a passionate software development. I specialize in Swift,
 ### Frontend Technologies
 
 <div>
-  <img src ="./images/html-5.svg" alt="HTML5 logo" width="3%" title='HTML5'/>
+  <img src ="https://github.com/pgreen24/intro/blob/globalmain/image/html-5.svg" alt="HTML5 logo" width="3%" title='HTML5'/>
   <img src ="./images/css-3.svg" alt="CSS3 logo" width="3%" title='CSS3'/>
   <img src ="./images/bootstrap.svg" alt="Bootstrap logo" width="4%" title='Bootstrap'/>
   <img src ="./images/javascript.svg" alt="JavaScript logo" width="4%" title='JavaScript'/>
