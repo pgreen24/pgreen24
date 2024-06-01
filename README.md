@@ -53,7 +53,6 @@ Feel free to reach out to me if you have any questions or would like to collabor
 -->
 ## 🌱 I'm Currently Learning
 
-- SwiftUI to enhance the user interface and user experience.
 - Flutter for expadning my tech stack and getting more about declarative programming.
 
 ## 📫 How to Reach Me
