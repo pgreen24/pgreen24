@@ -71,6 +71,5 @@ I do Love Cartoon 🥳
 
 ## My GitHub Contribution Graph Snake
 
-<# GitHub Snake
 
-![GitHub Snake](dist/github-snake.gif)
+![snake gif](https://github.com/pgreen24/pgreen24/blob/output/github-contribution-grid-snake.gif)
