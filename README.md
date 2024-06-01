@@ -6,28 +6,27 @@
 
 I'm Rabeya Akter Lima, a passionate software development. I specialize in Swift, Objective-C, and I thrive on creating innovative, elegant and user-friendly applications. I love working on projects that push the boundaries of what's possible in the iOS ecosystem.
 
-## 🔧Technologies which I teach and use:
+## 🔧Technologies which I  use:
 
 ### Frontend Technologies
 
 <div>
   <img src ="https://github.com/pgreen24/intro/blob/globalmain/image/html-5.svg" alt="HTML5 logo" width="3%" title='HTML5'/>
-  <img src ="./images/css-3.svg" alt="CSS3 logo" width="3%" title='CSS3'/>
-  <img src ="./images/bootstrap.svg" alt="Bootstrap logo" width="4%" title='Bootstrap'/>
-  <img src ="./images/javascript.svg" alt="JavaScript logo" width="4%" title='JavaScript'/>
+  <img src ="https://github.com/pgreen24/intro/blob/globalmain/image/css-3.svg" alt="CSS3 logo" width="3%" title='CSS3'/>
+  <img src ="https://github.com/pgreen24/intro/blob/globalmain/image/javascript.svg" alt="JavaScript logo" width="4%" title='JavaScript'/>
 <div> 
 
 ### Backend Technologies
 
 <div>
-  <img src ="./images/mysql.svg" alt="mysql logo" width="5%" title='MYSQL'/>
-  <img src ="./images/sqlite.svg" alt="sqlite logo" width="5%" title='sqlite'/>
-  <img src ="./images/python.svg" alt="Python logo" width="5%" title='Python'/>
-  <img src ="./images/flask.svg" alt="Flask logo" width="5%" title='Flask'/>
-  <img src ="./images/PHP.png" alt="PHP logo" width="5%" title='PHP'/>
-  <img src ="./images/SQL MAP.png" alt="SQLMAP logo" width="5%" title='SQLMAP'/>
-  <img src ="./images/SQLI.png" alt="SQLi logo" width="5%" title='SQLi'/>
-   <img src ="./images/mysql development.jpg" alt="mysql development logo" width="5%" title='mysql development'/>
+  <img src ="https://github.com/pgreen24/intro/blob/globalmain/image/mysql.svg" alt="mysql logo" width="5%" title='MYSQL'/>
+  <img src ="https://github.com/pgreen24/intro/blob/globalmain/image/sqlite.svg" alt="sqlite logo" width="5%" title='sqlite'/>
+  <img src ="https://github.com/pgreen24/intro/blob/globalmain/image/python.svg" alt="Python logo" width="5%" title='Python'/>
+  <img src ="https://github.com/pgreen24/intro/blob/globalmain/image/flask.svg" alt="Flask logo" width="5%" title='Flask'/>
+  <img src ="https://github.com/pgreen24/intro/blob/globalmain/image/PHP.png" alt="PHP logo" width="5%" title='PHP'/>
+  <img src ="https://github.com/pgreen24/intro/blob/globalmain/image/SQL%20MAP.png" alt="SQLMAP logo" width="5%" title='SQLMAP'/>
+  <img src ="https://github.com/pgreen24/intro/blob/globalmain/image/SQLI.png" alt="SQLi logo" width="5%" title='SQLi'/>
+   <img src ="https://github.com/pgreen24/intro/blob/globalmain/image/mysql%20development.jpg" alt="mysql development logo" width="5%" title='mysql development'/>
   
 </div>
 
@@ -35,10 +34,9 @@ I'm Rabeya Akter Lima, a passionate software development. I specialize in Swift,
 ### Tools
 
 <div>
-  <img src ="./images/figma.svg" alt="Figma logo" width="5%" title='Figma'/>
-  <img src ="./images/visual-studio-code.svg" alt="VS Code logo" width="5%" title='Visual Studio Code'/>
-  <img src ="./images/git.svg" alt="Git logo" width="5%" title='Git'/> 
-  <img src ="./images/pytorch.png" alt="pytorch logo" width="5%" title='pytorch'/>
+  <img src ="https://github.com/pgreen24/intro/blob/globalmain/image/visual-studio-code.svg" alt="VS Code logo" width="5%" title='Visual Studio Code'/>
+  <img src ="https://github.com/pgreen24/intro/blob/globalmain/image/git.svg" alt="Git logo" width="5%" title='Git'/> 
+  <img src ="https://github.com/pgreen24/intro/blob/globalmain/image/pytorch.png" alt="pytorch logo" width="5%" title='pytorch'/>
 </div>
   
 
