@@ -69,7 +69,4 @@ I do Love Cartoon 🥳
 [![Mahmoud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pgreen24&hide=contribs)](https://github.com/pgreen24)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pgreen24&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## My GitHub Contribution Graph Snake
 
-
-![snake gif](https://github.com/pgreen24/pgreen24/blob/output/github-contribution-grid-snake.gif)
