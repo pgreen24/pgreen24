@@ -37,6 +37,7 @@ I'm Rabeya Akter Lima, a passionate software development. I specialize in Swift,
   <img src ="https://github.com/pgreen24/intro/blob/globalmain/image/visual-studio-code.svg" alt="VS Code logo" width="5%" title='Visual Studio Code'/>
   <img src ="https://github.com/pgreen24/intro/blob/globalmain/image/git.svg" alt="Git logo" width="5%" title='Git'/> 
   <img src ="https://github.com/pgreen24/intro/blob/globalmain/image/pytorch.png" alt="pytorch logo" width="5%" title='pytorch'/>
+  <img src ="https://github.com/pgreen24/intro/blob/globalmain/image/xampp.png" alt="xampp logo" width="5%" title='xampp'/>
 </div>
   
 
