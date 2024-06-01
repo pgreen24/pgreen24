@@ -8,28 +8,7 @@ I'm Rabeya Akter Lima, a passionate software development. I specialize in Swift,
 
 ## 🔧 Technologies & Tools
 
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40" title="Swift"/>](https://developer.apple.com/swift/)
-[<img src="https://user-images.githubusercontent.com/25181517/186711578-bf30cb30-40b7-4b45-95a5-bdf837c372e7.png" alt="Xcode" width="40" height="40" title="Xcode"/>](https://developer.apple.com/xcode/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" title="git"/>](https://git-scm.com/)
-[<img width="40" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/>](https://www.github.com/Amin-0-1)
-[<img src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" alt="GitLab" width="40" height="40" title="GitLab"/>](https://about.gitlab.com)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="40" height="40" title="postman"/>](https://www.postman.com/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="Jira" width="40" height="40" title="jira"/>](https://www.atlassian.com/software/jira)
-[<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" title="firebase"/>](https://firebase.google.com)
-[<img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/79868fa1-41b8-411f-bd00-cda9ba6723ca" alt="Realm" width="40" height="40" title="Realm"/>](https://realm.io)
-[<img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/82df4543-236b-4e45-9604-5434e3faab17" alt="SQLite" width="40" height="40" title="SQLite"/>](https://www.sqlite.org/index.html)
-[<img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" width="40" height="40" title="Figma"/>](https://www.figma.com/community)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40" title="Swift"/>](https://developer.apple.com/swift/)
-[<img src="https://user-images.githubusercontent.com/25181517/186711578-bf30cb30-40b7-4b45-95a5-bdf837c372e7.png" alt="Xcode" width="40" height="40" title="Xcode"/>](https://developer.apple.com/xcode/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" title="git"/>](https://git-scm.com/)
-[<img width="40" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/>](https://www.github.com/Amin-0-1)
-[<img src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" alt="GitLab" width="40" height="40" title="GitLab"/>](https://about.gitlab.com)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="40" height="40" title="postman"/>](https://www.postman.com/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="Jira" width="40" height="40" title="jira"/>](https://www.atlassian.com/software/jira)
-[<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" title="firebase"/>](https://firebase.google.com)
-[<img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/79868fa1-41b8-411f-bd00-cda9ba6723ca" alt="Realm" width="40" height="40" title="Realm"/>](https://realm.io)
-[<img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/82df4543-236b-4e45-9604-5434e3faab17" alt="SQLite" width="40" height="40" title="SQLite"/>](https://www.sqlite.org/index.html)
-[<img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" width="40" height="40" title="Figma"/>](https://www.figma.com/community)
+
 <!--
 <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
