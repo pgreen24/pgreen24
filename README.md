@@ -1,4 +1,4 @@
-# Hi There, <img src="https://github.com/Amin-0-1/Amin-0-1/blob/main/wave.gif" alt="Wave Animation" width="40" height="40">
+# Hi There, <img src="https://github.com/pgreen24/intro/blob/globalmain/wave.gif" alt="Wave Animation" width="40" height="40">
 
 ## About Me
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=Amin-0-1) -->
