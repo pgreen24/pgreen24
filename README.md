@@ -43,8 +43,8 @@ I do Love Cartoon 🥳
 
 ## 📊 GitHub Stats
 
-[![Mahmoud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LIMA-0-1&hide=contribs)](https://github.com/amin-0-1)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LIMA-0-1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Mahmoud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pgreen24&hide=contribs)](https://github.com/pgreen24)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pgreen24&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or exciting collaboration ideas. Happy coding! 🚀
