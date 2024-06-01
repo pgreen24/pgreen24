@@ -12,22 +12,22 @@ Feel free to reach out to me if you have any questions or would like to collabor
 ### Frontend Technologies
 
 <div>
-  <img src ="https://github.com/pgreen24/intro/blob/globalmain/image/html-5.svg" alt="HTML5 logo" width="3%" title='HTML5'/>
-  <img src ="https://github.com/pgreen24/intro/blob/globalmain/image/css-3.svg" alt="CSS3 logo" width="3%" title='CSS3'/>
-  <img src ="https://github.com/pgreen24/intro/blob/globalmain/image/javascript.svg" alt="JavaScript logo" width="4%" title='JavaScript'/>
+  <img src ="https://github.com/pgreen24/intro/blob/globalmain/image/html-5.svg" alt="HTML5 logo" width="3%" title='HTML5'/> </br>
+  <img src ="https://github.com/pgreen24/intro/blob/globalmain/image/css-3.svg" alt="CSS3 logo" width="3%" title='CSS3'/> </br>
+  <img src ="https://github.com/pgreen24/intro/blob/globalmain/image/javascript.svg" alt="JavaScript logo" width="4%" title='JavaScript'/> </br>
 <div> 
 
 ### Backend Technologies
 
 <div>
-  <img src ="https://github.com/pgreen24/intro/blob/globalmain/image/mysql.svg" alt="mysql logo" width="5%" title='MYSQL'/>
-  <img src ="https://github.com/pgreen24/intro/blob/globalmain/image/sqlite.svg" alt="sqlite logo" width="5%" title='sqlite'/>
-  <img src ="https://github.com/pgreen24/intro/blob/globalmain/image/python.svg" alt="Python logo" width="5%" title='Python'/>
-  <img src ="https://github.com/pgreen24/intro/blob/globalmain/image/flask.svg" alt="Flask logo" width="5%" title='Flask'/>
-  <img src ="https://github.com/pgreen24/intro/blob/globalmain/image/PHP.png" alt="PHP logo" width="5%" title='PHP'/>
-  <img src ="https://github.com/pgreen24/intro/blob/globalmain/image/SQL%20MAP.png" alt="SQLMAP logo" width="5%" title='SQLMAP'/>
-  <img src ="https://github.com/pgreen24/intro/blob/globalmain/image/SQLI.png" alt="SQLi logo" width="5%" title='SQLi'/>
-   <img src ="https://github.com/pgreen24/intro/blob/globalmain/image/mysql%20development.jpg" alt="mysql development logo" width="5%" title='mysql development'/>
+  <img src ="https://github.com/pgreen24/intro/blob/globalmain/image/mysql.svg" alt="mysql logo" width="5%" title='MYSQL'/> </br>
+  <img src ="https://github.com/pgreen24/intro/blob/globalmain/image/sqlite.svg" alt="sqlite logo" width="5%" title='sqlite'/> </br>
+  <img src ="https://github.com/pgreen24/intro/blob/globalmain/image/python.svg" alt="Python logo" width="5%" title='Python'/> </br>
+  <img src ="https://github.com/pgreen24/intro/blob/globalmain/image/flask.svg" alt="Flask logo" width="5%" title='Flask'/> </br>
+  <img src ="https://github.com/pgreen24/intro/blob/globalmain/image/PHP.png" alt="PHP logo" width="5%" title='PHP'/> </br>
+  <img src ="https://github.com/pgreen24/intro/blob/globalmain/image/SQL%20MAP.png" alt="SQLMAP logo" width="5%" title='SQLMAP'/> </br>
+  <img src ="https://github.com/pgreen24/intro/blob/globalmain/image/SQLI.png" alt="SQLi logo" width="5%" title='SQLi'/> </br>
+   <img src ="https://github.com/pgreen24/intro/blob/globalmain/image/mysql%20development.jpg" alt="mysql development logo" width="5%" title='mysql development'/> </br>
   
 </div>
 
@@ -35,10 +35,10 @@ Feel free to reach out to me if you have any questions or would like to collabor
 ### Tools
 
 <div>
-  <img src ="https://github.com/pgreen24/intro/blob/globalmain/image/visual-studio-code.svg" alt="VS Code logo" width="5%" title='Visual Studio Code'/>
-  <img src ="https://github.com/pgreen24/intro/blob/globalmain/image/git.svg" alt="Git logo" width="5%" title='Git'/> 
-  <img src ="https://github.com/pgreen24/intro/blob/globalmain/image/pytorch.png" alt="pytorch logo" width="5%" title='pytorch'/>
-  <img src ="https://github.com/pgreen24/intro/blob/globalmain/image/xampp.png" alt="xampp logo" width="5%" title='xampp'/>
+  <img src ="https://github.com/pgreen24/intro/blob/globalmain/image/visual-studio-code.svg" alt="VS Code logo" width="5%" title='Visual Studio Code'/> </br>
+  <img src ="https://github.com/pgreen24/intro/blob/globalmain/image/git.svg" alt="Git logo" width="5%" title='Git'/> </br>
+  <img src ="https://github.com/pgreen24/intro/blob/globalmain/image/pytorch.png" alt="pytorch logo" width="5%" title='pytorch'/> </br>
+  <img src ="https://github.com/pgreen24/intro/blob/globalmain/image/xampp.png" alt="xampp logo" width="5%" title='xampp'/> </br>
 </div>
   
 
