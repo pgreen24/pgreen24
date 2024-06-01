@@ -73,8 +73,10 @@ I do Love Cartoon 🥳
 
 <div align="center">
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/pgreen24/pgreen24/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/pgreen24/pgreen24/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 </div>
