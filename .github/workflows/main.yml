@@ -1,0 +1,15 @@
+name: GitHub Snake
+
+on:
+  schedule:
+    - cron: 0 0 * * *
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          gif_out_path: dist/github-snake.gif
+          svg_out_path: dist/github-snake.svg
