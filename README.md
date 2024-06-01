@@ -71,8 +71,6 @@ I do Love Cartoon 🥳
 
 ## My GitHub Contribution Graph Snake
 
-# GitHub Snake
-
 ![GitHub Snake](dist/github-snake.gif)
 
 
