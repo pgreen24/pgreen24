@@ -72,4 +72,10 @@ I do Love Cartoon 🥳
 ## My GitHub Contribution Graph Snake
 
 ![Snake animation](https://github.com/pgreen24/pgreen24/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/Ankit404butfound/Ankit404butfound/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/Ankit404butfound/Ankit404butfound/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+</div>
 
