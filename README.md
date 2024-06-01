@@ -34,10 +34,8 @@ I'm Rabeya Akter Lima, a passionate software development. I specialize in Swift,
 - Flutter for expadning my tech stack and getting more about declarative programming.
 
 ## 📫 How to Reach Me
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Mahmoud.amin-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/rabeya-akter-lima/) </br>
-[![Gmail Badge](https://img.shields.io/badge/Email-Mahmoud.amin-red?style=social&logo=gmail)](mailto:rabeyaakterlim4@gmail.com) </br>
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Rabeya.Akter.Lima-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/rabeya-akter-lima/) </br>
-[![Gmail Badge](https://img.shields.io/badge/Email-Rabeya.Akter.Lima-blue-red?style=social&logo=gmail)](mailto:rabeyaakterlim4@gmail.com) </br>
+[![Gmail Badge](https://img.shields.io/badge/Email-Rabeya.Akter.Lima-red?style=social&logo=gmail)](mailto:rabeyaakterlim4@gmail.com) </br>
 
 ## ⚡ Fun Fact
 
