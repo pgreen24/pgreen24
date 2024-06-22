@@ -57,7 +57,7 @@ Feel free to reach out to me if you have any questions or would like to collabor
 
 ## 📫 How to Reach Me
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Rabeya.Akter.Lima-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/rabeya-akter-lima/) </br>
-[![Gmail Badge](https://img.shields.io/badge/Email-Rabeya.Akter.Lima-red?style=social&logo=gmail)](mailto:rabeyaakterlim4@gmail.com) </br>
+[![Gmail Badge](https://img.shields.io/badge/Email-Rabeya.Akter.Lima-red?style=social&logo=gmail)](mailto:rabeyaakterlima1234@gmail.com) </br>
 
 ## ⚡ Fun Fact
 
